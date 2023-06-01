@@ -3,3 +3,5 @@
 images*
 images.zip
 tb_logs
+lightning_logs
+*.ckpt

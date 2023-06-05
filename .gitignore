@@ -5,3 +5,6 @@ images.zip
 tb_logs
 lightning_logs
 *.ckpt
+*.amltmp
+.amlignore
+.ipynb_aml_checkpoints/

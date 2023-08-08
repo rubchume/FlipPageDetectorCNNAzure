@@ -6,7 +6,7 @@ authors = ["Rubén Chuliá Mena <rubchume@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.11,<3.12"
+python = "^3.9"
 jupyterlab = "^3.6.3"
 plotly = "^5.14.1"
 pandas = "^2.0.1"
@@ -20,6 +20,20 @@ torchvision = "0.15.2"
 pytorch-lightning = "^2.0.2"
 tensorboard = "^2.13.0"
 scikit-learn = "^1.2.2"
+importlib-resources = "^6.0.0"
+azureml-dataset-runtime = "^1.52.0"
+
+[tool.poetry.group.azure.dependencies]
+azureml-core = "^1.52.0"
+azureml-mlflow = "^1.52.0"
+azure-ai-ml = "^1.7.2"
+azureml = "^0.2.7"
+mlflow = "^2.5.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipywidgets = "^8.0.7"
+jupyter-contrib-nbextensions = "^0.7.0"
 
 [build-system]
 requires = ["poetry-core"]

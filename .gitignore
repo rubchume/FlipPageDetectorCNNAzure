@@ -8,3 +8,4 @@ lightning_logs
 *.amltmp
 .amlignore
 .ipynb_aml_checkpoints/
+__pycache__

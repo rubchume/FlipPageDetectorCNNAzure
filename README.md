@@ -3,5 +3,4 @@ Visualize the [notebook](https://nbviewer.org/github/rubchume/Ec5VUAs47oPS5fIi/b
 
 
 # Images
-
 The images for this project can be downloaded from [here](https://drive.google.com/file/d/1KDQBTbo5deKGCdVV_xIujscn5ImxW4dm/view?usp=sharing).

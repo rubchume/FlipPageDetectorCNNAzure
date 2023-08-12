@@ -1,1 +1,1 @@
-{"instance_type": "Standard_D2as_v4", "instance_count": 1}
+{"instance_type": "Standard_D2as_v4", "instance_count": 1, "readiness_probe": {"timeout": 30}}

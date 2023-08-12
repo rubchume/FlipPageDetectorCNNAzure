@@ -21,7 +21,7 @@ For deploying to the batch endpoint I have used the **Python SDK for Azure ML**.
 The framework **MLFlow** has been used for logging the model to Azure ML easily, and also for deploying it to the online real time dataset. This way we show how MLFlow allows for an agnosting deployment (independent of the platform: Azure, AWS, GCP, etc.) and how much verbosity we remove with respect the native Azure ML Python SDK, which is of course much more powerful but too verbose in consequence.
 
 # Visualize the notebook
-Visualize the [notebook](https://nbviewer.org/github/rubchume/FlipPageDetectorCNNAzure/blob/main/Project%204%20-%20MonReader.ipynb)
+Visualize the [notebook](https://nbviewer.org/github/rubchume/FlipPageDetectorCNNAzure/blob/main/FlipPageDetector.ipynb)
 
 # Images
 The images for this project can be downloaded from [here](https://drive.google.com/file/d/1KDQBTbo5deKGCdVV_xIujscn5ImxW4dm/view?usp=sharing).

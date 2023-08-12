@@ -1,6 +1,6 @@
 .idea
 .ipynb_checkpoints
-images*
+images/project_4_monreader
 images.zip
 tb_logs
 lightning_logs
@@ -8,3 +8,4 @@ lightning_logs
 *.amltmp
 .amlignore
 .ipynb_aml_checkpoints/
+__pycache__
